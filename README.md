@@ -59,6 +59,9 @@ Lasher aggro out of control when they all pop up at once(especially healing thre
 Also the poison does way too much dmg/stacks too fast and too high. Impossible to cleanse that often. Make it have an ICD on how fast you stack/cap it/nerf the dmg.
 *this boss is mostly fine now but the poison is still way too much. DPS randomly get hit by them and tank will instantly build to 20+ stacks*
 
+## Bridge miniboss
+Deadly tornado hits instantly when it spawns. Really hard to react to compared to normal tornados. Needs a small grace period.
+
 ## Eagles
 bolstering is really bad here.
 
@@ -102,7 +105,11 @@ The 75% movespeed on runback is great. Can make it so we get that buff after eve
 Most of the dungeon is fine now just minor adjustments needed.
 
 ## Volatile saplings apply on death affix. Extremely bad for bolstering specifically.
+Also their on death explosion is extremely hard to see.
 *dont know if fixed or not*
+
+## Arcane Tender
+Their puddles infused ground is hard to see and ticks instantly. Needs some grace period like normal puddles.
 
 ## Crystal fury 
 shard magic atk thing stacks up to infinite/maybe cap it or don't stack at all.
