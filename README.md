@@ -86,6 +86,7 @@ Eye of the storm with thundering is extremely hard to see(blue on blue). This is
 ## Fenryr
 Bleeds are fine for good players, but it gets extremely out of hand if no1 is dodging/melding/vanish/invis the bleeds.
 Maybe bleeds shouldn't stack or fall off like moroes bleed?
+Could also use a cast time/some way to know when claw frenzy(the aoe thing) is happening. right now its pretty random and doesn't give time for players to group for the meteor damage.
 *this has been a notable issue especially on tyrannical when people play like normal*
 
 ## Skovald
